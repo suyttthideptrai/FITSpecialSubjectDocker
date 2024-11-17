@@ -1,2 +1,12 @@
-Docker image for BE FE deployment. 
+Docker compose for BE FE deployment. 
 Currently under development, might not be running as expected.
+Tested with Ubuntu 24.04. gi gi day LTS
+
+
+Step 1: sudo bash setup.sh
+
+Step 2: docker compose up --build  (or -d idk :v)
+
+
+TODO: dynamically set REACT_APP_ backend port & url as environment variables
+TODO: compile static FE resource instead of redirect to 3000 port local node development server
