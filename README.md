@@ -1,2 +1,2 @@
-Docker image for BE FE deployment
-Currently not a complete pipeline yet, still need BE ip modification for endpoints
+Docker image for BE FE deployment. 
+Currently under development, might not be running as expected.
